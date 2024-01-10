@@ -1,6 +1,6 @@
 ### Hi, I'm Jodi! 👋
 - 🔭 Third-year Computer Science major
-- 📖 Languages I Know: C++, Python, HTML/CSS, JavaScript
+- 📖 Languages I Know: C++, Python, HTML/CSS
 - 🎹 Topics of Interest: Web/App Development, Aerospace
 - 💌 Contact Me: jovenjod@gmail.com
 
