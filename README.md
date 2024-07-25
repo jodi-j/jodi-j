@@ -1,7 +1,6 @@
 ### Hi, I'm Jodi! 👋
-- 🔭 Third-year Computer Science major
-- 📖 Languages I Know: C++, Python, HTML/CSS
-- 🎹 Topics of Interest: Web/App Development, Aerospace
+- 🔭 Computer Science major
+- 📖 Languages I Know: C++, Python, HTML/CSS, TypeScript, JavaScript, Kotlin, Swift
 
 <!--
 **jodi-j/jodi-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
