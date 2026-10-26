@@ -1,6 +1,6 @@
 ### Hi, I'm Jodi! 👋
-- 🔭 Computer Science major
-- 📖 Languages I Know: C++, Python, HTML/CSS, TypeScript, JavaScript, Kotlin, Swift
+- 🔭 Software Engineer
+- 📖 Specialize in Frontend, User Interface Design, and User Experience
 
 <!--
 **jodi-j/jodi-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
